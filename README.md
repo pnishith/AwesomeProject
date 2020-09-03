@@ -9,6 +9,7 @@ git clone https://github.com/pnishith/react-native-boilerplate.git
 ### Run The Basic App
 
 ```
+$ npm install
 $ npx react-native run-android
 ```
 

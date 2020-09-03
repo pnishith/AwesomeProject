@@ -11,7 +11,7 @@ git clone https://github.com/pnishith/react-native-boilerplate.git
 ```
 $ npm install
 $ pod repo update (MAC only if pod is old)
-$ npx pod-install (Mac Only) [if error run this in terminal `sudo xcode-select --switch /Applications/Xcode.app`]
+$ npx pod-install (Mac Only) [if error, run this in terminal `sudo xcode-select --switch /Applications/Xcode.app`]
 $ npx react-native run-android
 ```
 

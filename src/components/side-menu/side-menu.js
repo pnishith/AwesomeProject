@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { ScrollView, View, AsyncStorage, TouchableOpacity, Image, Text } from 'react-native';
-import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
+import { ScrollView, View, TouchableOpacity, Image, Text } from 'react-native';
 import AntDesign from 'react-native-vector-icons/AntDesign';
 import styles from './style';
 import { SafeAreaView } from 'react-native-safe-area-context';

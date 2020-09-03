@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Text, Button, AsyncStorage } from 'react-native';
+import { View, Text, Button } from 'react-native';
 import { Container, Root } from 'native-base'
 import styles from './style';
 import AppHeader from '../../../components/header';

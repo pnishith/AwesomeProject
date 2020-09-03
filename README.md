@@ -10,8 +10,8 @@ git clone https://github.com/pnishith/react-native-boilerplate.git
 
 ```
 $ npm install
-$ pod repo update
-$ npx pod-install
+$ pod repo update (MAC only if pod is old)
+$ npx pod-install (Mac Only)
 $ npx react-native run-android
 ```
 
